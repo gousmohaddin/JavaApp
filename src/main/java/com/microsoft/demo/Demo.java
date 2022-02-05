@@ -6,7 +6,7 @@ public class Demo {
             System.out.println("I am covered");
             return;
         }
-
+        // added comment in feature2 branch locally
         System.out.println("I am not covered");
     }
 }
